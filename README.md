@@ -214,4 +214,4 @@ From real-life Terraform pain 😅:
 
 ## Author
 
-Built by Muhd Jamiu — Terraform learner project for AWS VPC + EC2 provisioning.
+Built by MuhdJamiu Agbabiaka — Terraform learner project for AWS VPC + EC2 provisioning.
